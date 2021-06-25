@@ -47,7 +47,8 @@ module.exports = {
         '50': "50%"
       },
       screens: {
-        'mobile': '400px'
+        'mobile': '400px',
+        'mmd': '850px'
       }
     },
   },
